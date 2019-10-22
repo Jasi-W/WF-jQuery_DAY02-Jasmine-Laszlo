@@ -1,0 +1,68 @@
+
+
+var json = { "grocery": [
+	{
+	"id": 		"01",
+	"name":		"Bead",
+	"img":		"img/bild1.jpg",
+	"price":	"1.20",
+	"basket":	"3"
+	},
+
+	{
+	"id": 		"02",
+	"name":		"Milk",
+	"img":		"img/bild2.jpg",
+	"price":	"0.80",
+	"basket":	"0"
+	},
+	
+	{
+	"id": 		"03",
+	"name":		"Eggs",
+	"img":		"img/bild3.jpg",
+	"price":	"1.99",
+	"basket":	"1"
+	},
+	
+	{
+	"id": 		"04",
+	"name":		"Oranges",
+	"img":		"img/bild4.jpg",
+	"price":	"2.99",
+	"basket":	"4"
+	},
+	
+	{
+	"id": 		"05",
+	"name":		"Apple",
+	"img":		"img/bild5.jpg",
+	"price":	"1.80",
+	"basket":	"0"
+	},
+
+	{
+	"id": 		"06",
+	"name":		"Potatoes",
+	"img":		"img/bild6.jpg",
+	"price":	"1.40",
+	"basket":	"0"
+	},
+
+	{
+	"id": 		"07",
+	"name":		"Tomatoes",
+	"img":		"img/bild7.jpg",
+	"price":	"2.20",
+	"basket":	"0"
+	},
+
+	{
+	"id": 		"08",
+	"name":		"Onion",
+	"img":		"img/bild8.jpg",
+	"price":	"0.70",
+	"basket":	"0"
+	},
+]}
+
